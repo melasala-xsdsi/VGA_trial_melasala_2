@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Display Matrix
+Display Matrix on VGA
 
 ## How to test
 
-Just Run
+Just Run the command
 
 ## External hardware
 
-Based from bootcamp
+Based from bootcamp this is working
