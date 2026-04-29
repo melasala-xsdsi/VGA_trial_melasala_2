@@ -1,7 +1,7 @@
 
 # Tiny Tapeout project information
 project:
-  title:        "VGA Trial"      # Project title
+  title:        "VGA Trial 2"      # Project title
   author:       "Michael Lasala"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "VGA Trial from Verilog"      # One line description of what your project does
